@@ -27,3 +27,7 @@
   color: var(--neutral-white);
   text-decoration: none;
 }
+.medium-button {
+  padding: 1rem 2rem;
+  font-size: 1rem;
+}

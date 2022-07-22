@@ -164,6 +164,10 @@ align-items: center;
 .BrainhubCarousel__arrows:hover>span {
     border-color: #272727 !important;
 }
+.slide-button {
+    margin-top: 8rem;
+    text-align: center;
+}
 
 @media only screen and (max-width: 870px) {
     .carousel, .alice-carousel, .alice-carousel__wrapper {
